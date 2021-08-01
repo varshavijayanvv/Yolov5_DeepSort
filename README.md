@@ -1,5 +1,5 @@
 # Yolov5_DeepSort
-Multi-object tracker using YOLO v5 and deep sort
+Object tracker using YOLO v5 and deep sort
 # DeepSORT_YOLOv5_Pytorch
 
 ## Prepare 
