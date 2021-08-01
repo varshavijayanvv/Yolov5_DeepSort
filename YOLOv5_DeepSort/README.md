@@ -1,4 +1,4 @@
-# YOLOv5_DeepSort
+**# YOLOv5_DeepSort
 
 ## Prepare 
 1 Create a virtual environment with Python >=3.8  
@@ -16,7 +16,7 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 3 Install all dependencies
 ------------
 pip install -r requirements.txt
-------------
+------------**
 
 4 Download the yolov5 weight. 
 I already put the 'yolov5s.pt' inside YOLOv5_DeepSort/yolov5/weights . 
